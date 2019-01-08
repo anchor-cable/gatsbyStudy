@@ -1,2 +1,0 @@
-# gatsbyStudy
-Created with CodeSandbox
